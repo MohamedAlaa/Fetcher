@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+<!doctype html>
 <!--[if lt IE 7]>   <html class="ie ie6" lang="en">   <![endif]-->
 <!--[if IE 7]>      <html class="ie ie7" lang="en">   <![endif]-->
 <!--[if IE 8]>      <html class="ie ie8" lang="en">   <![endif]-->
@@ -6,6 +6,7 @@
 <!--[if gt IE 9]>   <html class="ie gtIe9" lang="en"> <![endif]-->
 <!--[if !IE]><!-->  <html class="w3c" lang="en">    <!-- <![endif]-->
 <head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <title></title>
   <!-- Meta Tage -->
   <meta name="description" content="">
@@ -16,21 +17,39 @@
   <link rel="stylesheet" type="text/css" href="style.css" media="all">
 
   <!-- Javascript -->
-  <script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
-  <script type="text/javascript" src="javascripts/application.js"></script>
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
 
 </head>
 <body>
-  <div id="container">
-    <header>
- 
-    </header>
-    <div id="main" role="main">
- 
-    </div>
-    <footer>
- 
-    </footer>
-  </div>
+<!--[if lt IE 7 ]>
+  <p class=chromeframe>
+      Your browser is <em>ancient!</em> <a href="http://microsoft.com/ie">Upgrade to a newer browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true"> install Google Chrome Frame</a> to experience this site. 
+  </p>
+<![endif]-->
+    
+<header role="banner">
+   <nav role="navigation"></nav>
+</header>
+
+<div role="main">
+   <section role="region">
+     <article role="article"></article>
+   </section>
+   <aside role="complementary"></aside>
+</div>
+
+<footer role="contentinfo">
+
+</footer>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery.min.js"></script>
+<script type="text/javascript" src="javascripts/application.js"></script>
+
+<script>
+  var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+  (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+  g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+  s.parentNode.insertBefore(g,s)}(document,'script'));
+</script>
 </body>
 </html>
