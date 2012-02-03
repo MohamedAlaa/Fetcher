@@ -1,0 +1,15 @@
+{
+	"files":
+	{
+		"HTML5 Index": "https://raw.github.com/MohamedAlaa/Fetcher/master/index.html",
+		"CSS Style": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/style.css",
+		"CSS Reset": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/reset.css",
+		"CSS Normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"Modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js"
+	},
+	"packages":
+	{
+		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped"
+	}
+}
