@@ -1,27 +1,28 @@
 {
-	"files":
-	{
-		"Backbone-dev": "http://backbonejs.org/backbone.js",
-		"Backbone-min": "http://backbonejs.org/backbone-min.js",
-		"CSS Normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
-		"CSS Reset": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/reset.css",
-		"CSS Style": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/style.css",
-		"HTML5 Index": "https://raw.github.com/MohamedAlaa/Fetcher/master/index.html",
-		"Modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
-		"Zepto": "http://zeptojs.com/zepto.js",
-		"flurid": "http://kflorence.github.com/flurid/dist/flurid.min.css",
-		"jquery": "http://code.jquery.com/jquery.min.js",
-		"underscore-dev": "http://documentcloud.github.com/underscore/underscore.js",
-		"underscore-min": "http://documentcloud.github.com/underscore/underscore-min.js",
-		"emberjs" : "http://builds.emberjs.com/ember-1.0.0-rc.4.js",
-		"handlebarsjs" : "https://raw.github.com/wycats/handlebars.js/1.0.0-rc.4/dist/handlebars.js",
-		"mustachejs" : "https://raw.github.com/janl/mustache.js/master/mustache.js"
-	},
-	"packages":
-	{
-		"html5-boilerplate": "http://github.com/h5bp/html5-boilerplate/zipball/v2.0stripped",
-		"wordpress-ES" : "http://es.wordpress.org/wordpress-3.5.1-es_ES.tar.gz",
-		"wordpress-AR" : "http://ar.wordpress.org/wordpress-3.5.1-ar.tar.gz",
-		"wordpress-EN" : "http://wordpress.org/latest.tar.gz"
-	}
+  "files":
+  {
+    "jquery": "http://code.jquery.com/jquery.min.js",
+    "Backbone-dev": "http://backbonejs.org/backbone.js",
+    "Backbone-min": "http://backbonejs.org/backbone-min.js",
+    "CSS Normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+    "CSS Reset": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/reset.css",
+    "CSS Style": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/style.css",
+    "HTML5 Index": "https://raw.github.com/MohamedAlaa/Fetcher/master/index.html",
+    "Modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
+    "Zepto": "http://zeptojs.com/zepto.js",
+    "underscore-dev": "http://documentcloud.github.com/underscore/underscore.js",
+    "underscore-min": "http://documentcloud.github.com/underscore/underscore-min.js",
+    "emberjs" : "http://builds.emberjs.com/ember-1.0.0-rc.4.js",
+    "handlebarsjs" : "https://raw.github.com/wycats/handlebars.js/1.0.0-rc.4/dist/handlebars.js",
+    "mustachejs" : "https://raw.github.com/janl/mustache.js/master/mustache.js",
+    "bs3-startup" : "https://raw.github.com/janl/mustache.js/master/mustache.js"
+  },
+  "packages":
+  {
+    "html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+    "bs3-package": "https://github.com/twbs/bootstrap/releases/download/v3.1.1/bootstrap-3.1.1-dist.zip",
+    "wordpress-ES" : "http://es.wordpress.org/wordpress-3.5.1-es_ES.tar.gz",
+    "wordpress-AR" : "http://ar.wordpress.org/wordpress-3.5.1-ar.tar.gz",
+    "wordpress-EN" : "http://wordpress.org/latest.tar.gz"
+  }
 }
