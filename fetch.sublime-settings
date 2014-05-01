@@ -16,6 +16,7 @@
     "handlebarsjs" : "https://raw.github.com/wycats/handlebars.js/1.0.0-rc.4/dist/handlebars.js",
     "mustachejs" : "https://raw.github.com/janl/mustache.js/master/mustache.js",
     "bs3-startup" : "https://raw.githubusercontent.com/MohamedAlaa/Fetcher/master/bs3/bs3-startup.html",
+    "bs3-extended" : "https://raw.githubusercontent.com/MohamedAlaa/Fetcher/master/bs3/bs3-extended.html",
     "responsive-css": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/responsive.css",
     "print-css": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/print.css"
   },
