@@ -10,15 +10,20 @@
     "HTML5 Index": "https://raw.github.com/MohamedAlaa/Fetcher/master/index.html",
     "Modernizr": "https://raw.github.com/Modernizr/Modernizr/master/modernizr.js",
     "Zepto": "http://zeptojs.com/zepto.js",
-    "underscore-dev": "http://documentcloud.github.com/underscore/underscore.js",
-    "underscore-min": "http://documentcloud.github.com/underscore/underscore-min.js",
+    "underscore:dev": "http://documentcloud.github.com/underscore/underscore.js",
+    "underscore:min": "http://documentcloud.github.com/underscore/underscore-min.js",
     "emberjs" : "http://builds.emberjs.com/ember-1.0.0-rc.4.js",
     "handlebarsjs" : "https://raw.github.com/wycats/handlebars.js/1.0.0-rc.4/dist/handlebars.js",
     "mustachejs" : "https://raw.github.com/janl/mustache.js/master/mustache.js",
-    "bs3-startup" : "https://raw.githubusercontent.com/MohamedAlaa/Fetcher/master/bs3/bs3-startup.html",
-    "bs3-extended" : "https://raw.githubusercontent.com/MohamedAlaa/Fetcher/master/bs3/bs3-extended.html",
-    "responsive-css": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/responsive.css",
-    "print-css": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/print.css"
+    "bs3:extended": "https://raw.githubusercontent.com/MohamedAlaa/Fetcher/master/bs3/bs3-extended.html",
+    "bs3:startup": "https://raw.githubusercontent.com/MohamedAlaa/Fetcher/master/bs3/bs3-startup.html",
+    "print:css": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/print.css",
+    "responsive:css": "https://raw.github.com/MohamedAlaa/Fetcher/master/stylesheets/responsive.css",
+    "neon.js": "https://raw.githubusercontent.com/azendal/neon/master/neon.js",
+    "neon.js:CustomEvent": "https://raw.githubusercontent.com/azendal/neon/master/stdlib/custom_event.js",
+    "neon.js:CustomEventSupport": "https://raw.githubusercontent.com/azendal/neon/master/stdlib/custom_event_support.js",
+    "neon.js:NodeSupport": "https://raw.githubusercontent.com/azendal/neon/master/stdlib/node_support.js",
+    "neon.js:widget.js": "https://raw.githubusercontent.com/azendal/neon/master/stdlib/widget.js"
   },
   "packages":
   {
